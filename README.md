@@ -4,7 +4,7 @@ A high-performance, pixel-perfect, and fully responsive E-commerce marketplace b
 
 ## **🚀 Live Demo**
 
-**View Project:** [https://frontend-whatbytes-assignment.vercel.app/](https://www.google.com/search?q=https://frontend-whatbytes-assignment-gules.vercel.app/)
+**View Project:** [https://frontend-whatbytes-assignment.vercel.app/](https://www.google.com/search?q=https://frontend-whatbytes-assignment.vercel.app/)
 
 ## **✨ Key Features**
 
